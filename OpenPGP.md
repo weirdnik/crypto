@@ -1,9 +1,10 @@
 # Curated list of items related to OpenPGP cryptosystem
 
-## Standards
+## Standards and specifications
 
 * RFC 2440: https://www.ietf.org/rfc/rfc2440.txt
 * RFC 4480: https://www.ietf.org/rfc/rfc4880.txt
+* Autocrypt: https://autocrypt.org/
 
 ## Software
 
@@ -11,7 +12,6 @@
 * NeoPG (GPG fork aimed at doing some aspects in different way): https://neopg.io/
 * OpenKeychain: https://www.openkeychain.org/
 * Pretty Good Privacy by Symantec (commercial): https://www.symantec.com/products/encryption
-* Autocrypt: https://autocrypt.org/
 * p≡p (Pretty Easy privacy): https://prettyeasyprivacy.com/
 * OpenPGP.js: https://openpgpjs.org/
 * Google E2E (mostly abandoned): https://github.com/google/end-to-end
