@@ -9,12 +9,13 @@
 ## Software
 
 * GnuPG (GNU Privacy Guard): https://gnupg.org/
-* NeoPG (GPG fork aimed at doing some aspects in different way): https://neopg.io/
 * OpenKeychain: https://www.openkeychain.org/
 * Pretty Good Privacy by Symantec (commercial): https://www.symantec.com/products/encryption
 * p≡p (Pretty Easy privacy): https://prettyeasyprivacy.com/
 * OpenPGP.js: https://openpgpjs.org/
 * Google E2E (mostly abandoned): https://github.com/google/end-to-end
+* Delta Chat: https://delta.chat/
+* Tessercube https://tessercube.com/
 
 ## Cloud
 
@@ -24,9 +25,15 @@
 
 ## Client software
 
+### Standalone e-mail clients
+
 * mutt: https://mutt.org/
 * elm ME: http://www.elmme-mailer.org/
-* Delta Chat: https://delta.chat/
+* Mozilla Thunderbird (work in progress) https://wiki.mozilla.org/Thunderbird:OpenPGP:2020
+
+### Support plugins
+* PGP zimlet for Zimbra https://github.com/Zimbra-Community/pgp-zimlet
+* Enigmail for Mozilla Thunderbird and Postbox https://enigmail.net/
 
 ## Community
 
