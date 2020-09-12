@@ -14,16 +14,22 @@
 * p≡p (Pretty Easy privacy): https://prettyeasyprivacy.com/
 * OpenPGP.js: https://openpgpjs.org/
 * Google E2E (mostly abandoned): https://github.com/google/end-to-end
-* Delta Chat: https://delta.chat/
-* Tessercube https://tessercube.com/
+* Sequoia-PGP: https://sequoia-pgp.org/
 
 ## Cloud
 
-* Keybase: https://keybase.io/
 * ProtonMail: http://protonmail.com/
 * HushMail: https://hushmail.com/
+* Postale.io: https://postale.io/
 
 ## Client software
+
+### Mobile messenger apps
+
+* Keybase: https://keybase.io/
+* Delta Chat: https://delta.chat/
+* TesserPG: https://tesserpg.com/
+* pEp for iOS: https://www.pep.software/ios/
 
 ### Standalone e-mail clients
 
@@ -32,8 +38,10 @@
 * Mozilla Thunderbird (work in progress) https://wiki.mozilla.org/Thunderbird:OpenPGP:2020
 
 ### Support plugins
+
 * PGP zimlet for Zimbra https://github.com/Zimbra-Community/pgp-zimlet
 * Enigmail for Mozilla Thunderbird and Postbox https://enigmail.net/
+* pEp for Thunderbird: https://www.pep.software/thunderbird/
 
 ## Community
 
